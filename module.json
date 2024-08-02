@@ -32,9 +32,12 @@
     }],
     "media": [{
         "type": "setup",
-        "caption": "World of Indigo Isles",
+        "caption": "Starfinder Second Edition",
         "thumbnail": "modules/starfinder-field-test-for-pf2e/art/banner.webp"
     }],
+    "styles": [
+        "styles/sf2e.css"
+    ],
     "packs": [{
         "name": "adventures",
         "label": "Adventures",
