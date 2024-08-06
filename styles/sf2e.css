@@ -34,7 +34,7 @@
 	--color-border-trait: #9edae6;
 	--c-primary: #2c4e69;    /* teal */
 	--c-secondary: #5b3a96;  /* purple */
-  	--c-tertiary: #b9519e;   /* pink */
+  --c-tertiary: #b9519e;   /* pink */
 	--c-accent: #9dd9e5;     /* baby blue */
 	--c-emphasis:#ec2026;    /* red */
 	--c-secondary-light: hsl(262, 44%, calc( 41% / 0.6 ));
